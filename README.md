@@ -11,6 +11,7 @@ Specifications :
 - Port Display : HDMI via VGA Converter
 - Bootloader : OpenCore r1.0.4
 - OS : macOS Sequoia Build 24B91
+
 Working Good :
 - CPU Power Management
 - Shutdown, Restart and Sleep
@@ -20,6 +21,7 @@ Working Good :
 - HDMI Output
 - All USB Ports
 - Etc
+
 Known Issue :
 - Mic (masih proses fix)
 - Internal WiFi (diganti USB sebagai solusinya sampe beli adapter baru)
