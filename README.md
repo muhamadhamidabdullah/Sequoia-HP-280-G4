@@ -20,12 +20,12 @@ Working Good :
 - Wifi (Wireless-USB-OC-Big-Sur-Adapter by chris1111)
 - HDMI Output
 - All USB Ports
+- Mic
 - Etc
 
 Known Issue :
-- Mic (masih proses fix)
 - Internal WiFi (diganti USB sebagai solusinya sampe beli adapter baru)
-- VGA Output (Not Tested)
+- VGA Output
 - HDMI Audio Out (Not Tested)
 
 Credits : 
