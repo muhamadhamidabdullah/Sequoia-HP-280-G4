@@ -1,4 +1,4 @@
-EFI untuk macOS Sequoia di PC Built Up HP 280 G4
+EFI untuk macOS Sequoia 15.1.1 Build 15.1.1 (24B91) di PC Built Up HP 280 G4
 
 Specifications :
 - Processor : Intel Core i3-8100
