@@ -30,7 +30,11 @@ Known Issue :
 
 Credits : 
 -EFI Maker : https://www.youtube.com/watch?v=F0MmNo2kokk
+
 -https://github.com/acidanthera
+
 -https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
+
 -https://github.com/USBToolBox/tool
+
 -https://github.com/USBToolBox/kext
