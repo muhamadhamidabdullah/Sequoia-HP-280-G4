@@ -27,4 +27,5 @@ Known Issue :
 - Internal WiFi (diganti USB sebagai solusinya sampe beli adapter baru)
 - VGA Output (Not Tested)
 - HDMI Audio Out (Not Tested)
+- Boot Chime (proses fix)
 Keep Hackintosh and keep Hairfall !!
