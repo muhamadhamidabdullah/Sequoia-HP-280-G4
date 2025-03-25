@@ -28,5 +28,3 @@ Known Issue :
 - VGA Output (Not Tested)
 - HDMI Audio Out (Not Tested)
 - Boot Chime (proses fix)
-
-Keep Hackintosh and keep Hairfall !!
