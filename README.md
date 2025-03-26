@@ -25,7 +25,7 @@ Working Good :
 
 Known Issue :
 - Internal WiFi (diganti USB sebagai solusinya sampe beli adapter baru)
-- VGA Output
+- VGA Output (Patch Framebuffer agar Work, secara resmi dah drop support)
 - HDMI Audio Out (Not Tested)
 
 Credits : 
